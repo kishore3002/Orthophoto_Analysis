@@ -1,0 +1,9 @@
+ultralytics==8.3.82
+opencv-python==4.10.0.84
+numpy==2.0.2
+matplotlib==3.9.2
+PyYAML==6.0.2
+gradio==4.44.0
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+torchaudio==2.6.0+cu118

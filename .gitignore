@@ -1,0 +1,20 @@
+# Ignore YOLO training runs
+runs/
+
+# Ignore all model checkpoints except the one in models/
+*.pt
+!models/best.pt
+
+# Ignore datasets if you don’t want to upload them
+Dataset/
+
+# Ignore virtual environments
+yolov8-env/
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

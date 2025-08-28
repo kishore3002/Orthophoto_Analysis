@@ -1,0 +1,7 @@
+path: D:/project/Dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['building_rcc', 'building_tiled', 'building_tin', 'main_road', 'street_road', 'waterbody']
