@@ -1,8 +1,3 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kishore3002/Orthophoto_Analysis/main/assets/cover.png" alt="Orthophoto Project Banner" width="100%">
-</p>
-
 <h1 align="center">🌍 Orthophoto Analysis</h1>
 <h3 align="center">AI-driven Feature Extraction from Drone Orthophotos</h3>
 
@@ -98,20 +93,47 @@ The biggest lesson?
 
 ---
 
-## ⚙️ Installation  
+## ⚙️ Setup & Installation  
 
+### Step 1 : Clone the repository  
+Open terminal in VS Code (`Ctrl + Shift + ~`) and run:  
 ```bash
-# Clone repo
 git clone https://github.com/kishore3002/Orthophoto_Analysis.git
+```
+
+### Step 2 : Open the project folder
+```bash
 cd Orthophoto_Analysis
+```
 
-# Create virtual env
+### Step 3 : Create a Virtual Environment
+
+Windows (Command Prompt):
+```bash
 python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+venv\Scripts\activate
+```
 
-# Install dependencies
+Linux / macOS:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Step 4 : Upgrade pip (Recommended)
+```bash
+pip install --upgrade pip
+```
+
+### Step 5 : Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# Run app
+### Step 6 : Run the application
+```bash
 python app/app.py
+```
+
+### step 7 : Now open in your browser:
+http://localhost:7860/
