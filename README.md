@@ -57,7 +57,21 @@ The biggest lesson?
 ---
 
 ## 🎯 Live Demo  
-👉 [**Try the project live on Hugging Face 🚀**](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)  
+
+To try out the [Live Demo] , you can use the sample orthophoto tiles provided below.  
+
+### 🔹 Download Links  
+
+- [tile_24.jpg](test_samples/input_images/tile_24.jpg)  
+- [tile_29.jpg](test_samples/input_images/tile_29.jpg)  
+- [tile_37.jpg](test_samples/input_images/tile_37.jpg)  
+- [tile_41.jpg](test_samples/input_images/tile_41.jpg)  
+- [tile_94.jpg](test_samples/input_images/tile_94.jpg)  
+
+Simply click on a link to **download the image**, then upload it into the demo interface in the below link.  
+
+👉 [**Try the project live on Hugging Face 🚀**](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)
+
 
 ---
 
@@ -69,20 +83,29 @@ The biggest lesson?
 
 ---
 
-## 📊 Results  
+## 📊 Results    
 
-| Feature        | IoU (%) | Precision | Recall |  
-|----------------|---------|-----------|--------|  
-| Buildings      | 92.1    | 91.4      | 90.8   |  
-| Roads          | 89.5    | 88.9      | 87.2   |  
-| Waterbodies    | 95.3    | 94.6      | 93.8   |  
-
-### 🔍 Visual Examples  
-
-| Input | Prediction |  
-|-------|------------|  
-| ![](test_samples/tile_29.jpg) | ![](output_images/result_tile_29.jpg) |  
-| ![](test_samples/tile_37.jpg) | ![](output_images/result_tile_37.jpg) |  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Input (Drone Orthophoto)</b></td>
+      <td align="center"><b>Output (YOLOv8 Segmentation)</b></td>
+    </tr>
+    <tr>
+      <td><img src="test_samples/input_images/tile_24.jpg" width="400"></td>
+      <td><img src="test_samples/output images/tile_24.png" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="test_samples/input_images/tile_41.jpg" width="400"></td>
+      <td><img src="test_samples/output images/tile_41.png" width="400"></td>
+    </tr>
+    <tr>
+      <td><img src="test_samples/input_images/tile_94.jpg" width="400"></td>
+      <td><img src="test_samples/output images/tile_94.png" width="400"></td>
+    </tr>
+  </table>
+</p>
+ 
 
 ---
 
