@@ -125,15 +125,96 @@ source venv/bin/activate
 pip install --upgrade pip
 ```
 
-### Step 5 : Install dependencies
+### Step 5 : Install dependencies (ultralytics,openCV,matplotlib,numpy etc..,)
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 6 : Run the application
+### Step 6 : Run the application ( developed through gradio interface)
 ```bash
 python app/app.py
 ```
 
 ### step 7 : Now open in your browser:
 http://localhost:7860/
+
+### Step 8 : Stop the application
+Press Ctrl + C in the terminal to stop the server.
+
+---
+## 🛠 Tech Stack  
+
+### 🔹 Languages & Core
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🔹 Machine Learning & CV
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roboflow-00C4CC?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+### 🔹 Deployment & Hosting
+<p align="center">
+  <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+## 💡 Applications  
+
+- 🏙️ **Urban Planning** – Analyze and classify roof types for city development  
+- 🏠 **Property Taxation** – Assist authorities in property assessment & taxation  
+- ☀️ **Solar Energy Planning** – Identify suitable rooftops for solar installations  
+- 🌊 **Disaster Management** – Support flood/damage assessment using roof mapping  
+- 🌐 **Smart Cities** – Enable real-time geospatial insights for smarter governance
+
+---
+## 🔮 Future Scope  
+
+- 📊 **Expand Dataset** – Collect more villages & diverse roof types  
+- 🗺️ **GIS Integration** – QGIS, Google Earth Engine for spatial insights  
+- 📹 **Real-Time Processing** – Analyze live drone video streams  
+- ⚡ **REST API** – FastAPI backend for scalable deployment  
+- ☁️ **Cloud Deployment** – Integrate with AWS/GCP for large-scale use
+
+---
+## 🙏 Acknowledgements  
+- 💡 **Smart India Hackathon (SIH)** – for the inspiring problem statement  
+- 🛰️ **SWAMITVA Scheme** – source of orthophotos for dataset creation  
+- 🛠️ **Roboflow** – powerful annotation tool for dataset labeling  
+- 🤖 **Ultralytics YOLOv8** – backbone model for training & inference  
+
+---
+
+## 👤 Author  
+**Kishore E**  
+
+<p align="center">
+  <a href="https://github.com/kishore3002">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat">
+  </a>
+  <a href="https://huggingface.co/kishoreElumalai">
+    <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&style=flat">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat">
+  </a>
+</p>  
+
+---
+
+✨ At its heart, this project is about **persistence**.  
+The dataset may have been small. The results may not be state-of-the-art.  
+But this journey taught me more than perfect accuracy ever could.  
+
+👉 If you believe in taking that **first step — even when the road is unclear — then this project is for you.**  
+⭐ If this inspired you, give it a star and check out the **[Live Demo](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)**.  
+
+
