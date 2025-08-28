@@ -62,7 +62,10 @@ The biggest lesson?
 ---
 
 ## 🏗 Workflow  
- 
+ <p align="center">
+  <img src="workflow.png" alt="Workflow Diagram" width="80%">
+</p>
+
 
 ---
 
