@@ -62,17 +62,7 @@ The biggest lesson?
 ---
 
 ## 🏗 Workflow  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kishore3002/Orthophoto_Analysis/main/assets/workflow.png" alt="Workflow Diagram" width="80%">
-</p>
-
-**Steps:**  
-1. Drone orthophoto →  
-2. 20% overlapping tiling →  
-3. Manual annotation in Roboflow →  
-4. Training YOLOv8 segmentation model →  
-5. Inference + Deployment via Gradio  
+ 
 
 ---
 
@@ -192,29 +182,26 @@ Press Ctrl + C in the terminal to stop the server.
 - 🤖 **Ultralytics YOLOv8** – backbone model for training & inference  
 
 ---
+## 📬 Contact  
 
-## 👤 Author  
-**Kishore E**  
+- 👤 **Kishore E**  
+- 🐙 **GitHub:** [@kishore3002](https://github.com/kishore3002)  
+- 💼 **LinkedIn:** [linkedin.com/in/kishore-offic](https://www.linkedin.com/in/kishore-offic)  
+- 📧 **Email:** [ekishore134@gmail.com](mailto:ekishore134@gmail.com)  
 
-<p align="center">
-  <a href="https://github.com/kishore3002">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat">
-  </a>
-  <a href="https://huggingface.co/kishoreElumalai">
-    <img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&style=flat">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat">
-  </a>
-</p>  
+
+## 📝 License
+This project is licensed under the MIT License – free to use and modify with attribution.
 
 ---
-
 ✨ At its heart, this project is about **persistence**.  
 The dataset may have been small. The results may not be state-of-the-art.  
 But this journey taught me more than perfect accuracy ever could.  
 
 👉 If you believe in taking that **first step — even when the road is unclear — then this project is for you.**  
-⭐ If this inspired you, give it a star and check out the **[Live Demo](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)**.  
+
+⭐ If this inspired you, give it a star 
+
+check out the **[Live Demo](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)**.  
 
 
