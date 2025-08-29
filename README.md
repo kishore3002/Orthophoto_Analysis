@@ -78,7 +78,7 @@ Simply click on a link to **download the image**, then upload it into the demo i
 
 ## 🏗 Workflow  
  <p align="center">
-  <img src="workflow.png" alt="Workflow Diagram" width="80%">
+  <img src="assets/Workflow.png" alt="Workflow Diagram" width="80%">
 </p>
 
 
@@ -89,20 +89,13 @@ Simply click on a link to **download the image**, then upload it into the demo i
 <p align="center">
   <table>
     <tr>
-      <td align="center"><b>Input (Drone Orthophoto)</b></td>
-      <td align="center"><b>Output (YOLOv8 Segmentation)</b></td>
+      <img src="assets/feature_section.png" >
     </tr>
     <tr>
-      <td><img src="test_samples/input_images/tile_24.jpg" width="400"></td>
-      <td><img src="test_samples/output images/tile_24.png" width="400"></td>
+      <img src="assets/core_section.png" >
     </tr>
     <tr>
-      <td><img src="test_samples/input_images/tile_41.jpg" width="400"></td>
-      <td><img src="test_samples/output images/tile_41.png" width="400"></td>
-    </tr>
-    <tr>
-      <td><img src="test_samples/input_images/tile_94.jpg" width="400"></td>
-      <td><img src="test_samples/output images/tile_94.png" width="400"></td>
+      <img src="assets/result_section.png" >
     </tr>
   </table>
 </p>
@@ -180,6 +173,19 @@ Press Ctrl + C in the terminal to stop the server.
 <p align="center">
   <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+## 🏆 Achievements & Recognition  
+
+I presented my work **“AI model for Feature Extraction from Drone Orthophotos”** at  
+**International Conference on Advances in Artificial Intelligence and Machine Learning (ICAAAIML 2025)**.  
+
+📄 **Paper ID:** SSCSE/ICAAAIML/2025/PID/1585  
+
+<p align="center">
+  <img src="assets/ICAAAIML2025_Certificate.png" alt="ICAAAIML 2025 Certificate" width="70%">
 </p>
 
 ---
