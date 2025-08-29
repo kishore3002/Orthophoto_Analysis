@@ -87,17 +87,9 @@ Simply click on a link to **download the image**, then upload it into the demo i
 ## 📊 Results    
 
 <p align="center">
-  <table>
-    <tr>
       <img src="assets/feature_section.png" >
-    </tr>
-    <tr>
       <img src="assets/core_section.png" >
-    </tr>
-    <tr>
       <img src="assets/result_section.png" >
-    </tr>
-  </table>
 </p>
  
 
@@ -140,7 +132,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Step 6 : Run the application ( developed through gradio interface)
+### Step 6 : Run the application ( developed using Gradio interface)
 ```bash
 python app/app.py
 ```
@@ -179,14 +171,10 @@ Press Ctrl + C in the terminal to stop the server.
 
 ## 🏆 Achievements & Recognition  
 
-I presented my work **“AI model for Feature Extraction from Drone Orthophotos”** at  
-**International Conference on Advances in Artificial Intelligence and Machine Learning (ICAAAIML 2025)**.  
+📌 Presented at **International Conference on Advances in Artificial Intelligence and Machine Learning (ICAAAIML 2025)** <br>
+📄 Paper ID: SSCSE/ICAAAIML/2025/PID/1585
 
-📄 **Paper ID:** SSCSE/ICAAAIML/2025/PID/1585  
-
-<p align="center">
-  <img src="assets/ICAAAIML2025_Certificate.png" alt="ICAAAIML 2025 Certificate" width="70%">
-</p>
+<p align="center"> <img src="assets/ICAAAIML2025.png" alt="ICAAAIML 2025 Certificate" width="70%"> </p>
 
 ---
 
@@ -234,7 +222,5 @@ But this journey taught me more than perfect accuracy ever could.
 👉 If you believe in taking that **first step — even when the road is unclear — then this project is for you.**  
 
 ⭐ If this inspired you, give it a star 
-
-check out the **[Live Demo](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)**.  
 
 
