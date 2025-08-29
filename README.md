@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue">
   <img src="https://img.shields.io/badge/YOLOv8-Segmentation-red">
   <img src="https://img.shields.io/badge/Deploy-Gradio-yellowgreen">
-  <a href="https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject"><img src="https://img.shields.io/badge/Live%20Demo-HuggingFace-blue"></a>
+  <img src="https://img.shields.io/badge/Live%20Demo-HuggingFace-blue"></a>
 </p>
 
 ---
@@ -70,7 +70,8 @@ To try out the [Live Demo] , you can use the sample orthophoto tiles provided be
 
 Simply click on a link to **download the image**, then upload it into the demo interface in the below link.  
 
-👉 [**Try the project live on Hugging Face 🚀**](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-blue?style=for-the-badge)](https://huggingface.co/spaces/kishoreElumalai/OrthophotoProject)
+
 
 
 ---
